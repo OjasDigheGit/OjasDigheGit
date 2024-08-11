@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OjasDigheGit
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning data engineering
+- 💞️ I’m looking to collaborate on github
